@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: sensor
+Version: 0.0.1
+Author: pramod
+Author-email: pk1818202@gmail.com
+Requires-Dist: pymongo
