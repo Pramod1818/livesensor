@@ -5,13 +5,16 @@ pandas
 numpy
 scikit-learn
 PyYAML
-dill
-scipy 
-imblearn==0.0
+
 
 python-dotenv
 certifi
 
+dill
+scipy 
+imblearn==0.0
+
+xgboost==1.6.2
 
 -e . #editable mode
 
