@@ -1,3 +1,17 @@
 pymongo==4.2.0
+dnspython==2.2.1
+
+pandas
+numpy
+scikit-learn
+PyYAML
+dill
+scipy 
+imblearn==0.0
+
+python-dotenv
+certifi
+
 
 -e . #editable mode
+

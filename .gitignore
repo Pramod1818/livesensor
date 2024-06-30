@@ -1,2 +1,7 @@
 venv
+.env
+artifact
+logs
+demo.ipynb
+mongodb.ipynb
 # livesensor
