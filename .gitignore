@@ -4,6 +4,7 @@ artifact
 logs
 demo.ipynb
 mongodb.ipynb
+fast.py
 # livesensor
 
 # Byte-compiled / optimized / DLL files
